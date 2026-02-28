@@ -1,4 +1,3 @@
-# PixelDream
 
 ## Description
 This is a 2D terraria-like platformer game written in C++ 17 and SFML. It is completely free and open-source.
@@ -27,10 +26,3 @@ I have two short videos that illustrates how approximately this game looks like:
 * Efficient rendering but O(n*n) collision testing
 * New blocks, weapons, characters can be added easily
 * 4200 LOC
-
-## License
-See LICENSE file.
-
-## About
-This project is cool for education. It was written from the scratch in less than 2 weeks.
-I write my code in emacs, under the fedora linux. I use i3 window system and love XTerm.
