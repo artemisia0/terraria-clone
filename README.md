@@ -1,8 +1,7 @@
-
-## Description
-This is a 2D terraria-like platformer game written in C++ 17 and SFML. It is completely free and open-source.
-I have two short videos that illustrates how approximately this game looks like: [this](https://www.youtube.com/watch?v=YeXvfHxs7pc) and [another](https://www.youtube.com/watch?v=zkJQg86SbBU) one.
-
+- Funny experimental 2D game inspired by minecraft, terraria.
+- Videos: [video1](https://www.youtube.com/watch?v=YeXvfHxs7pc) and [video2](https://www.youtube.com/watch?v=zkJQg86SbBU).
+- Videos have poor quality and audio was **not** recorded (there is background music and sound effects to different events). 
+ 
 ## Features
 * Terrain generation using perlin noise (stb_perlin library used)
 * More than 10 different kind of blocks (dirt, stone, gold)
